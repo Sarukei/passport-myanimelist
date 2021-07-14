@@ -4,7 +4,6 @@
   "description": "[Passport](http://passportjs.org/) strategy for authenticating with [MyAnimeList](https://myanimelist.net/) using the OAuth 2.0 API.",
   "main": "lib/index.js",
   "directories": {
-    "example": "example",
     "lib": "lib"
   },
   "repository": {
