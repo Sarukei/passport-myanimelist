@@ -1,0 +1,35 @@
+{
+  "name": "passport-myanimelist",
+  "version": "1.0.0",
+  "description": "[Passport](http://passportjs.org/) strategy for authenticating with [MyAnimeList](https://myanimelist.net/) using the OAuth 2.0 API.",
+  "main": "lib/index.js",
+  "directories": {
+    "example": "example",
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sarukei/passport-myanimelist.git"
+  },
+  "keywords": [
+    "passport",
+    "myanimelist",
+    "my-anime-list",
+    "oauth2",
+    "mal",
+    "auth",
+    "authn",
+    "authentication",
+    "identity"
+  ],
+  "author": "Sarukei",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sarukei/passport-myanimelist/issues"
+  },
+  "homepage": "https://github.com/Sarukei/passport-myanimelist#readme",
+  "dependencies": {
+    "passport-oauth2": "^1.6.0"
+  },
+  "devDependencies": {}
+}
